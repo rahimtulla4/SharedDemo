@@ -21,5 +21,6 @@ TextView name,phone,pass,email;
         phone.setText(preferences.getString("PHONE","no values"));
         pass.setText(preferences.getString("PASS","no values"));
         email.setText(preferences.getString("Email","no values"));
+        //kjahsdjkashdjk
     }
 }
